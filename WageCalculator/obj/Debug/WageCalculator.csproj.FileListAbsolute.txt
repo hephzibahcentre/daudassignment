@@ -1,0 +1,8 @@
+C:\Users\Joyce\source\repos\WageCalculator\WageCalculator\bin\Debug\WageCalculator.dll
+C:\Users\Joyce\source\repos\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+C:\Users\Joyce\source\repos\WageCalculator\WageCalculator\obj\Debug\WageCalculator.csproj.AssemblyReference.cache
+C:\Users\Joyce\source\repos\WageCalculator\WageCalculator\obj\Debug\WageCalculator.UserControl1.resources
+C:\Users\Joyce\source\repos\WageCalculator\WageCalculator\obj\Debug\WageCalculator.csproj.GenerateResource.cache
+C:\Users\Joyce\source\repos\WageCalculator\WageCalculator\obj\Debug\WageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\source\repos\WageCalculator\WageCalculator\obj\Debug\WageCalculator.dll
+C:\Users\Joyce\source\repos\WageCalculator\WageCalculator\obj\Debug\WageCalculator.pdb
